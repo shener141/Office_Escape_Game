@@ -34,7 +34,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="screenshots/img1.png" width="1000"/><br>
+        <img src="screenshots/img1.png" width="100000000"/><br>
         <b>Главное меню</b><br>
         Настройка камеры и атмосфера
       </td>
