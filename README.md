@@ -39,7 +39,7 @@
         Настройка камеры и атмосфера
       </td>
       <td align="center">
-        <img src="screenshots/img2.png" width="100000000"/><br>
+        <img src="screenshots/img2.png" width="1000"/><br>
         <b>Исследование этажа</b><br>
         Темные помещения, головоломки
       </td>
