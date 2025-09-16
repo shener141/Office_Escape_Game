@@ -35,14 +35,14 @@
 <p align="center">
   <figure>
     <img src="screenshots/img1.png" width="300"/>
-    <figcaption>Главное меню — настройка камеры и атмосфера</figcaption>
+    <figcaption>Главное меню — настройка параметров графики и разрешения</figcaption>
   </figure>
   <figure>
-    <img src="screenshots/screen2.png" width="300"/>
+    <img src="screenshots/img3.png" width="300"/>
     <figcaption>Исследование темного этажа</figcaption>
   </figure>
   <figure>
-    <img src="screenshots/screen3.png" width="300"/>
+    <img src="screenshots/img2.png" width="300"/>
     <figcaption>Встреча с существом — видно только через камеру игрока</figcaption>
   </figure>
 </p>
