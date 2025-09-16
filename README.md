@@ -31,32 +31,33 @@
 ## 📸 Скриншоты
 
 <p align="center">
-  <!-- Основная галерея -->
-  <a href="#img1">⬅️</a>
-  <img src="screenshots/img1.png" width="400" alt="Screen 1"/>
-  <a href="#img2">➡️</a>
-</p>
-
-<!-- Подписи -->
-<details>
-<summary>📄 Подписи к скриншотам</summary>
-
-- **Screen 1:** Главное меню — настройка камеры и атмосфера  
-- **Screen 2:** Исследование темного этажа  
-- **Screen 3:** Существо видно только через камеру игрока  
-- **Screen 4:** Головоломка с ключами  
-- **Screen 5:** Еще один интересный момент  
-- ...добавляйте сколько угодно
-</details>
-
----
-
-<!-- Мини-галерея всех скринов -->
-<p align="center">
-  <a href="screenshots/img1.png"><img src="screenshots/screen1.png" width="150" alt="Screen 1"/></a>
-  <a href="screenshots/img2.png"><img src="screenshots/screen2.png" width="150" alt="Screen 2"/></a>
-  <a href="screenshots/img3.png"><img src="screenshots/screen3.png" width="150" alt="Screen 3"/></a>
-  <a href="screenshots/img4.png"><img src="screenshots/screen4.png" width="150" alt="Screen 4"/></a>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="screenshots/img1.png" width="200"/><br>
+        <b>Главное меню</b><br>
+        Настройка камеры и атмосфера
+      </td>
+      <td align="center">
+        <img src="screenshots/img2.png" width="200"/><br>
+        <b>Исследование этажа</b><br>
+        Темные помещения, головоломки
+      </td>
+      <td align="center">
+        <img src="screenshots/img3.png" width="200"/><br>
+        <b>Существо</b><br>
+        Видно только через камеру игрока
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="screenshots/img4.png" width="200"/><br>
+        <b>Головоломка с ключами</b><br>
+        Найти ключи и открыть двери
+      </td>
+      <td></td>
+    </tr>
+  </table>
 </p>
 
 ---
