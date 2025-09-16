@@ -30,21 +30,29 @@
 
 ## 📸 Скриншоты
 
-## 📸 Скриншоты
+<p align="center">
+  <a href="#screen1">◀️</a>
+  <img id="screen" src="screenshots/screen1.png" width="400"/>
+  <a href="#screen2">▶️</a>
+</p>
+
+<details>
+<summary>📄 Подписи к скриншотам</summary>
+
+- **Screen 1:** Главное меню — настройка камеры и атмосфера  
+- **Screen 2:** Исследование темного этажа  
+- **Screen 3:** Существо видно только через камеру игрока  
+- **Screen 4:** Головоломка с ключами  
+
+</details>
+
+---
 
 <p align="center">
-  <figure>
-    <img src="screenshots/img1.png" width="300"/>
-    <p>Главное меню — настройка параметров графики и разрешения</p>
-  </figure>
-  <figure>
-    <img src="screenshots/img3.png" width="300"/>
-    <figcaption>Исследование темного этажа</figcaption>
-  </figure>
-  <figure>
-    <img src="screenshots/img2.png" width="300"/>
-    <figcaption>Встреча с существом — видно только через камеру игрока</figcaption>
-  </figure>
+  <img src="screenshots/screen1.png" width="200"/>
+  <img src="screenshots/screen2.png" width="200"/>
+  <img src="screenshots/screen3.png" width="200"/>
+  <img src="screenshots/screen4.png" width="200"/>
 </p>
 
 
