@@ -30,10 +30,23 @@
 
 ## 📸 Скриншоты
 
+## 📸 Скриншоты
+
 <p align="center">
-  <img src="screenshots/screen1.png" width="45%" />
-  <img src="screenshots/screen2.png" width="45%" />
+  <figure>
+    <img src="screenshots/img1.png" width="300"/>
+    <figcaption>Главное меню — настройка камеры и атмосфера</figcaption>
+  </figure>
+  <figure>
+    <img src="screenshots/screen2.png" width="300"/>
+    <figcaption>Исследование темного этажа</figcaption>
+  </figure>
+  <figure>
+    <img src="screenshots/screen3.png" width="300"/>
+    <figcaption>Встреча с существом — видно только через камеру игрока</figcaption>
+  </figure>
 </p>
+
 
 ---
 
