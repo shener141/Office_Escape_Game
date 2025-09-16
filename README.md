@@ -34,30 +34,31 @@
   <table>
     <tr>
       <td align="center">
-        <img src="screenshots/img1.png" width="100000000"/><br>
+        <a href="screenshots/img1.png"><img src="screenshots/img1.png" width="300"/></a><br>
         <b>Главное меню</b><br>
         Настройка камеры и атмосфера
       </td>
       <td align="center">
-        <img src="screenshots/img2.png" width="100000000"/><br>
+        <a href="screenshots/img2.png"><img src="screenshots/img2.png" width="300"/></a><br>
         <b>Исследование этажа</b><br>
         Темные помещения, головоломки
-      </td>
-      <td align="center">
-        <img src="screenshots/img3.png" width="100000000"/><br>
-        <b>Существо</b><br>
-        Видно только через камеру игрока
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="screenshots/img4.png" width="100000000"/><br>
+        <a href="screenshots/img3.png"><img src="screenshots/img3.png" width="300"/></a><br>
+        <b>Существо</b><br>
+        Видно только через камеру игрока
+      </td>
+      <td align="center">
+        <a href="screenshots/img4.png"><img src="screenshots/img4.png" width="300"/></a><br>
         <b>Головоломка с ключами</b><br>
         Найти ключи и открыть двери
       </td>
     </tr>
   </table>
 </p>
+
 
 ---
 
