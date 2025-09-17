@@ -61,7 +61,7 @@
 ---
 
 ## 🚀 Запуск
-1. Скачайте билд игры: [Office Escape — Download](https://drive.google.com/file/d/1njoqZhTL0M0ExM7X5VHIuLmky6GRZNAF/view?usp=drive_link)  
+1. Скачайте билд игры: [Office Escape — Download](https://drive.google.com/file/d/1HNfGps5iDdF_LaS7_3uZ3w4IutIUKb4I/view?usp=sharing)  
 2. Запустите `.exe` файл (Windows) или `.app` (Mac).
 
 ---
