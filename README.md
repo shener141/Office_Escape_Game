@@ -61,7 +61,7 @@
 ---
 
 ## 🚀 Запуск
-1. Скачайте билд игры: [Horror Escape — Download](https://ссылка_на_билд)  
+1. Скачайте билд игры: [Office Escape — Download](https://drive.google.com/file/d/1njoqZhTL0M0ExM7X5VHIuLmky6GRZNAF/view?usp=drive_link)  
 2. Запустите `.exe` файл (Windows) или `.app` (Mac).
 
 ---
