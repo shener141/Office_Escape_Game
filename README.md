@@ -40,7 +40,7 @@
       <td align="center">
         <a href="screenshots/img2.png"><img src="screenshots/img3.png" width="300"/></a><br>
         <b>Исследование этажа</b><br>
-        Темные помещения, жуткая атмосфера
+        Темные помещения и жуткая атмосфера
       </td>
     </tr>
     <tr>
