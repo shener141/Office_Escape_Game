@@ -35,12 +35,12 @@
       <td align="center">
         <a href="screenshots/img1.png"><img src="screenshots/img1.png" width="300"/></a><br>
         <b>Главное меню</b><br>
-        Настройка камеры и атмосфера
+        Настройка графики и разрешения.
       </td>
       <td align="center">
         <a href="screenshots/img2.png"><img src="screenshots/img3.png" width="300"/></a><br>
         <b>Исследование этажа</b><br>
-        Темные помещения, головоломки
+        Темные помещения, жуткая атмосфера
       </td>
     </tr>
     <tr>
